@@ -1,5 +1,6 @@
 {
     "name": "Dhanish's rizzler ora farm",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
